@@ -23,12 +23,12 @@ footer-links:
   flickr:
   github: froland/peda-portfolio
   instagram:
-  linkedin:
+  linkedin: francoisroland
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: froland
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  rss: 1 # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: users/106980/frroland # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCoP7lN8lsBXZ0-EAza-4oFg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
