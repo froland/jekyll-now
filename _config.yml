@@ -6,7 +6,7 @@
 name: François Roland
 
 # Short bio or description (displayed in the header)
-description: Teaching Assistant at UMONS, BELGIUM
+description: Assistant à mandat, UMONS, BELGIQUE
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/893622
@@ -41,13 +41,13 @@ google_analytics: UA-112052180-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://froland.github.io/peda-portfolio
+url: http://portfolio.froland.be
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/peda-portfolio"
+baseurl: "/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
