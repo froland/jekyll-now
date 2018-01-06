@@ -3,7 +3,9 @@ layout: post
 title: Réflexion sur l'évaluation de l'exercice integré de RTC
 ---
 
-Date de l'évaluation: 2018-01-05
+Voici quelques réflexions suite à l'évaluation de l'exercice intégré du cours *Real-Time Computing*.
+Cette évaluation s'est déroulée en janvier 2018.
+Je me suis servi d'une grille d'évaluation afin de comparer les résultats.
 
 # Grille d'évaluation utilisée
 
@@ -56,7 +58,7 @@ Date de l'évaluation: 2018-01-05
   * Le binôme a rédigé un rapport qui ne répond pas aux consignes (*1 points*)
   * Le binôme a rédigé un rapport présentant ce qui fonctionne, ce qui ne fonctionne pas et des pistes d'explications (*3 points*)
 
-# Réfexions
+# Réfexions sur la grille
 
 * Hormis les quelques suggestions que je détaillerai après, la grille était assez complète.
   Je n'ai pas eu de réelle surprise entre mon sentiment général et la note finale.
